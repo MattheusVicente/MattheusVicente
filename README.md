@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!-- icons without padding -->
 
-[1.2]: https://github.com/MattheusVicente/MattheusVicente/blob/main/linkedin_icon.jpg
+[1.2]: https://github.com/MattheusVicente/MattheusVicente/blob/main/linkedin-icon.png
 
 
 <!-- links to your social media accounts -->
