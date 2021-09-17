@@ -1,6 +1,8 @@
 
 # Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+Meu nome é Matheus Vicente, e eu sou estudante de Análise e Desenvolvimento de Sistemas. Eu sou brasileiro, moro no litoral paulista e atualmente trabalho fora da área de análise e desenvolvimento de sistemas. Você pode encontrar meu perfil profissional no 
+
 ![Estatística do GitHub Matheus Vicente](https://github-readme-stats.vercel.app/api?username=mattheusvicente&show_icons=true&theme=chartreuse-dark&locale=pt-br)
 
 
