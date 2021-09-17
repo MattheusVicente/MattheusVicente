@@ -45,7 +45,38 @@ Meu nome é Matheus Vicente, tenho 22 anos e sou estudante de Análise e Desenvo
   
 My name is Matheus Vicente, I'm 22 years old and I'm a Systems Analysis and Development student. I am Brazilian, live on the coast of São Paulo and currently work outside the area of analysis and systems development. You can find my professional profile at [![LinkedIn][1.2]][1].
 
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/MattheusVicente/MattheusVicente">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattheusvicente&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/MattheusVicente/MattheusVicente">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattheusVicente&theme=chartreuse-dark" />
+</a>
 
+## 📜 My skills
+
+### Web technologies
+
+- CSS
+- HTML
+- JavaScript
+
+### Application Development
+
+- C
+- C++
+- Cobol
+- Java
+- Python
+
+### Languages
+
+| Language      | Reading       | Writing | Speech |
+| ------------- | ------------- | ------- | ------ |
+| English       | Intermediary  | Basic   | Basic  |
+| Portuguese BR | Native        | Native  | Native |
+
+</details>
 
 
 <!-- icons without padding -->
