@@ -1,28 +1,51 @@
 
 # Olá! <img src="https://github.com/MattheusVicente/MattheusVicente/blob/main/wave.gif" width="30px">
 
-Meu nome é Matheus Vicente, e eu sou estudante de Análise e Desenvolvimento de Sistemas. Sou brasileiro, moro no litoral paulista e atualmente trabalho fora da área de análise e desenvolvimento de sistemas. Você pode encontrar meu perfil profissional no [![LinkedIn][1.2]][1]
-
-![Estatística do GitHub Matheus Vicente](https://github-readme-stats.vercel.app/api?username=mattheusvicente&show_icons=true&theme=chartreuse-dark&locale=pt-br)
+Meu nome é Matheus Vicente, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Sou brasileiro, moro no litoral paulista e atualmente trabalho fora da área de análise e desenvolvimento de sistemas. Você pode encontrar meu perfil profissional no [![LinkedIn][1.2]][1].
 
 
+## &#x1f4c8; Estatísticas do GitHub
+<a href="https://github.com/MattheusVicente/MattheusVicente">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattheusvicente&show_icons=true&theme=chartreuse-dark&locale=pt-br" />
+</a>
+<a href="https://github.com/MattheusVicente/MattheusVicente">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattheusVicente&theme=chartreuse-dark&locale=pt-br" />
+</a>
 
-### Hi there 👋
+## 📜 Minhas habilidades
 
-<!--
-**MattheusVicente/MattheusVicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web
 
-Here are some ideas to get you started:
+- CSS
+- HTML
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Desenvolvimento de Aplicativos
+
+- C
+- C++
+- Cobol
+- Java
+- Python
+
+### Idiomas
+
+| Idioma       | Leitura       | Escrita | Fala   |
+| ------------ | ------------- | ------- | ------ |
+| Inglês       | Intermediário | Básico  | Básico |
+| Português BR | Nativo        | Nativo  | Nativo |
+
+
+<details>
+<summary>
+  English version
+</summary>
+  
+# Hello! <img src="https://github.com/MattheusVicente/MattheusVicente/blob/main/wave.gif" width="30px">
+  
+My name is Matheus Vicente, I'm 22 years old and I'm a Systems Analysis and Development student. I am Brazilian, live on the coast of São Paulo and currently work outside the area of analysis and systems development. You can find my professional profile at [![LinkedIn][1.2]][1].
+
+
 
 
 <!-- icons without padding -->
