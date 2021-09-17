@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Estatística do GitHub de Matheus Vicente](https://github-readme-stats.vercel.app/api?username=mattheusvicente&show_icons=true&theme=chartreuse-dark&locale=pt-br)
+![Estatística do GitHub Matheus Vicente](https://github-readme-stats.vercel.app/api?username=mattheusvicente&show_icons=true&theme=chartreuse-dark&locale=pt-br)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattheusvicente)](https://github.com/mattheusvicente/github-readme-stats)
 
