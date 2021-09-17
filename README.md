@@ -3,7 +3,7 @@
 
 ![Estatística do GitHub Matheus Vicente](https://github-readme-stats.vercel.app/api?username=mattheusvicente&show_icons=true&theme=chartreuse-dark&locale=pt-br)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattheusvicente)](https://github.com/mattheusvicente/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattheusvicente&locale=pt-br)](https://github.com/mattheusvicente/github-readme-stats)
 
 
 
