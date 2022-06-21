@@ -1,5 +1,5 @@
 
-# Olá! <img src="https://github.com/MattheusVicente/MattheusVicente/blob/main/wave.gif" width="10px">
+# Olá! <img src="https://github.com/MattheusVicente/MattheusVicente/blob/main/wave.gif" width="1px">
 
 Meu nome é Matheus Vicente, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Sou brasileiro, moro no litoral paulista e atualmente trabalho fora da área de análise e desenvolvimento de sistemas. Você pode encontrar meu perfil profissional no [![LinkedIn][1.2]][1]
 
