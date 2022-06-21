@@ -1,5 +1,5 @@
 
-# Olá! <img src="https://github.com/MattheusVicente/MattheusVicente/blob/main/wave.gif" height="10px">
+# Olá! <img src="https://github.com/MattheusVicente/MattheusVicente/blob/main/wave.gif" height="30px">
 
 Meu nome é Matheus Vicente, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Sou brasileiro, moro no litoral paulista e atualmente trabalho fora da área de análise e desenvolvimento de sistemas. Você pode encontrar meu perfil profissional no [![LinkedIn][1.2]][1]
 
@@ -41,7 +41,7 @@ Meu nome é Matheus Vicente, tenho 22 anos e sou estudante de Análise e Desenvo
   English version
 </summary>
   
-# Hello! <img src="https://github.com/MattheusVicente/MattheusVicente/blob/main/wave.gif" width="30px">
+# Hello! <img src="https://github.com/MattheusVicente/MattheusVicente/blob/main/wave.gif" height="30px">
   
 My name is Matheus Vicente, I'm 22 years old and I'm a Systems Analysis and Development student. I am Brazilian, live on the coast of São Paulo and currently work outside the area of analysis and systems development. You can find my professional profile at [![LinkedIn][1.2]][1]
 
